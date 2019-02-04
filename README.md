@@ -18,6 +18,6 @@
 **Instruções:**
 1. Faça o fork do desafio;
 2. Crie um repositório privado no bitbucket para o projeto e adicione como colaborador o usuário yuppietech;
-3. Desenvolva. Você terá até 03/02/2019 para enviar;
+3. Desenvolva. Você terá até 5 dias para enviar o commit, contados a partir da data de liberação;
 4. Após concluir seu trabalho faça um push; 
 5. Envie um email para contato@yuppietech.com.br, notificando a finalização do desafio para validação.
